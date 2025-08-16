@@ -1,0 +1,11 @@
+movie_id,title,duration,rating,is_new_release,is_most_popular,is_coming_soon,price_sd,price_hd
+1,Iron Man,126,PG-13,1,1,0,2.99,3.99
+2,Avengers: Endgame,181,PG-13,1,1,0,3.99,4.99
+3,Black Panther,134,PG-13,0,1,0,2.99,3.99
+4,Thor: Ragnarok,130,PG-13,0,0,0,2.49,3.49
+5,Spider-Man: Homecoming,133,PG-13,1,1,0,2.99,3.99
+6,Doctor Strange,115,PG-13,0,1,0,2.99,3.99
+7,Captain America: Civil War,147,PG-13,0,1,0,2.99,3.99
+8,Guardians of the Galaxy,121,PG-13,0,1,0,2.49,3.49
+9,Ant-Man,117,PG-13,0,0,0,2.49,3.49
+10,Avengers: Infinity War,149,PG-13,0,1,0,3.99,4.99

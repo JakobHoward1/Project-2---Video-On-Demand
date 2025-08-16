@@ -1,0 +1,21 @@
+category_id,category_name,parent_category_id
+1,Drama,NULL
+2,Thrillers,1
+3,Emotional,1
+4,Award Winning,1
+5,Comedy,NULL
+6,Romantic Comedy,5
+7,Action,NULL
+8,Adventure,7
+9,Sci-Fi,NULL
+10,Fantasy,9
+11,Horror,NULL
+12,Slasher,11
+13,Supernatural,11
+14,Documentary,NULL
+15,Biography,14
+16,Crime,NULL
+17,Detective,16
+18,Musical,NULL
+19,Animation,NULL
+20,Family,19

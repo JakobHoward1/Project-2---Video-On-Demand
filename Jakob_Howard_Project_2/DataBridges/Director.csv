@@ -1,0 +1,11 @@
+director_id,first_name,last_name,date_of_birth,email
+1,Steven,Spielberg,1946-12-18,steven.spielberg1@example.com
+2,Christopher,Nolan,1970-07-30,christopher.nolan1@example.com
+3,Quentin,Tarantino,1963-03-27,quentin.tarantino1@example.com
+4,Martin,Scorsese,1942-11-17,martin.scorsese1@example.com
+5,James,Cameron,1954-08-16,james.cameron1@example.com
+6,Ridley,Scott,1937-11-30,ridley.scott1@example.com
+7,Peter,Jackson,1961-10-31,peter.jackson1@example.com
+8,George,Lucas,1944-05-14,george.lucas1@example.com
+9,Tim,Burton,1958-08-25,tim.burton1@example.com
+10,Clint,Eastwood,1930-05-31,clint.eastwood1@example.com

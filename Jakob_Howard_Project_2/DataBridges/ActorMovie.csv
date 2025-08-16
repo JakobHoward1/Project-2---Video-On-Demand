@@ -1,0 +1,21 @@
+movie_id,actor_id,role_name
+1,1,Heroine
+1,2,Sidekick
+2,5,Lead
+2,6,Love Interest
+3,3,Commander
+3,4,Captain
+4,7,Detective
+4,8,Antagonist
+5,9,Comedian
+5,10,Friend
+6,2,Hero
+6,3,Partner
+7,5,Protagonist
+7,1,Best Friend
+8,4,Leader
+8,8,Villain
+9,6,Explorer
+9,7,Companion
+10,10,Scientist
+10,9,Assistant

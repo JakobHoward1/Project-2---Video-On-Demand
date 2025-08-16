@@ -1,0 +1,11 @@
+actor_id,first_name,last_name,date_of_birth,email
+1,Robert,Downey,1965-04-04,robert.downey1@example.com
+2,Chris,Hemsworth,1983-08-11,chris.hemsworth1@example.com
+3,Scarlett,Johansson,1984-11-22,scarlett.johansson1@example.com
+4,Chris,Evan,1981-06-13,chris.evan1@example.com
+5,Mark,Ruffalo,1967-11-22,mark.ruffalo1@example.com
+6,Jeremy,Renner,1971-01-07,jeremy.renner1@example.com
+7,Tom,Holland,1996-06-01,tom.holland1@example.com
+8,Benedict,Cumberbatch,1976-07-19,benedict.cumberbatch1@example.com
+9,Elizabeth,Olsen,1989-02-16,elizabeth.olsen1@example.com
+10,Paul,Rudd,1969-04-06,paul.rudd1@example.com
