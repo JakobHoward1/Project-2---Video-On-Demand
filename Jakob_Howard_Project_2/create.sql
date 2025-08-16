@@ -2,6 +2,8 @@
 -- Author: JH
 -- Purpose: Create all tables for VOD database
 
+-- run in query tool on PGAdmin
+
 -- -------------------------
 -- Parent Tables
 -- -------------------------
@@ -82,3 +84,4 @@ CREATE TABLE IF NOT EXISTS Director_Movie (
     movie_id INT REFERENCES Movie(movie_id),
     PRIMARY KEY(director_id, movie_id)
 );
+
